@@ -3,7 +3,7 @@
 # 						Maintainer: Ionut Biru <ibiru@archlinux.org>
 
 pkgname=accountsservice
-pkgver=0.6.46
+pkgver=0.6.47
 pkgrel=2
 pkgdesc="D-Bus interface for user account query and manipulation"
 arch=(x86_64)
